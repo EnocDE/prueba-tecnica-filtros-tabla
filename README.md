@@ -1,4 +1,4 @@
-# Prueba técnica filtros y tabla
+# Prueba técnica filtros y tabla (practica)
 
 - Fetch 100 rows of data using the API.
 - Display the data in a table format, similar to the example.
